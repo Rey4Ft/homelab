@@ -1,2 +1,2 @@
 # homelab
-projects
+detailed information on all writeups, projects, etc.
